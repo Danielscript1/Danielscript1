@@ -9,8 +9,8 @@ Ola! Sou Daniel sousa 👋
 ## Oiii eu sou a Daniel sousa, Desenvolvedor Backend !
 <div align="center">
   <a href="https://github.com/Danielscript1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Danielscript1&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielscript1&layout=compact&langs_count=7&theme=aura"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Danielscript1&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielscript1&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
