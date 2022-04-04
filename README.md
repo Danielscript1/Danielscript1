@@ -3,10 +3,11 @@ Ola, Tudo bem! 👋
 
 
 - 📫 danielsousadelira@gmail.com
-- 🔭 Orientador educacional
+- 🔭 Desenvolvedor Frontend
 - 🌱 Estudando SpringBoot
+- :snowflake: Estudando React
 
-## Oiii eu sou a Daniel sousa, Desenvolvedor Backend !
+## Oiii eu sou a Daniel sousa, Desenvolvedor  Frontend junior!
 <div align="center">
   <a href="https://github.com/Danielscript1">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Danielscript1&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
@@ -22,6 +23,8 @@ Ola, Tudo bem! 👋
    
   
   <img align="center" alt="Daniel-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
+ 
+  <img align="center" alt="react" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   
 </div>
   
