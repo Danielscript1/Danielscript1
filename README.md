@@ -7,7 +7,7 @@ Ola, Tudo bem! 👋
 - 🌱 Estudando SpringBoot
 - :snowflake: Estudando React
 
-## Oiii eu sou a Daniel sousa, Desenvolvedor  Frontend junior!
+## Oiii eu sou  Daniel sousa, Desenvolvedor  Frontend junior!
 <div align="center">
   <a href="https://github.com/Danielscript1">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Danielscript1&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
