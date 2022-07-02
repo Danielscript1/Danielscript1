@@ -21,6 +21,9 @@ Ola, Tudo bem! 👋
  
  <img  align="center" alt="react" height="45" width="50"   src="https://img.icons8.com/color/48/undefined/sass.png"/>
  
+ <img  align="center" alt="react" height="40" width="50"   src="https://github.githubassets.com/images/icons/emoji/unicode/1f485.png"/>
+
+ 
  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
    
  
@@ -30,8 +33,12 @@ Ola, Tudo bem! 👋
  
   <img align="center" alt="react" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   
+ 
+   <img  height="40" width="40" align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+          
+  
 
-  <img align="center" alt="Daniel-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
+  <img    align="center" alt="Daniel-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
  
  
 
