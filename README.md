@@ -25,7 +25,8 @@ Ola, Tudo bem! 👋
 
  
  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   
+
+ <img align="center" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
  
   <img  align="center" alt="react" height="45" width="50"  src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
  
