@@ -3,7 +3,7 @@ Ola, Tudo bem! 👋
 
 
 - 📫 danielsousadelira@gmail.com
-- 🔭 Desenvolvedor Frontend
+- 🔭 Desenvolvedor FullStack Junior
 - 🌱 Estudando SpringBoot
 - :snowflake: Estudando React
 
