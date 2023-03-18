@@ -38,6 +38,8 @@ Ola, Tudo bem! 👋
 
   <img    align="center" alt="Daniel-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
  
+  <img    align="center" alt="Daniel-django" height="60" width="55" src="https://img.icons8.com/windows/256/django.png">
+ 
  
 
 </div>
