@@ -6,7 +6,7 @@ Ola, Tudo bem! 👋
 - 🔭 Desenvolvedor FullStack 
 - 🌱 Estudando SpringBoot
 - :snowflake: Estudando React
-- &#128154;Estudando Django
+
 
 ## Oiii eu sou  Daniel sousa, Analista de sistema!
 
