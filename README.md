@@ -3,7 +3,8 @@ Ola, Tudo bem! 👋
 
 
 - 📫 danielsousadelira@gmail.com
-- 🔭 Desenvolvedor FullStack 
+- 🔭 Desenvolvedor FullStack
+- 🌱 Estudando nodejs
 - 🌱 Estudando SpringBoot
 - :snowflake: Estudando React
 
