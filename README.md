@@ -4,9 +4,6 @@ Ola, Tudo bem! 👋
 
 - 📫 danielsousadelira@gmail.com
 - 🔭 Desenvolvedor FullStack
-- 🌱 Estudando nodejs
-- 🌱 Estudando SpringBoot
-- :snowflake: Estudando React
 
 
 ## Oiii eu sou  Daniel sousa, Analista de sistema!
