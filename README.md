@@ -3,10 +3,10 @@ Ola, Tudo bem! 👋
 
 
 - 📫 danielsousadelira@gmail.com
-- 🔭 Desenvolvedor FullStack
 
 
-## Oiii eu sou  Daniel sousa, Analista de sistema!
+
+## Oiii eu sou  Daniel sousa, Desenvolvedor FullStack!
 
 <div style="display: inline_block"><br>
   
