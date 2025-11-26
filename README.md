@@ -11,7 +11,7 @@ Atuo no desenvolvimento de soluções escaláveis, com foco em:
 ✅ Performance Web  
 ✅ Integração Front-end/Back-end
 
-Atualmente trabalho como **Desenvolvedor Full Stack na UDS Tecnologia**, contribuindo para produtos de alta performance e grande escala.
+**Desenvolvedor Full Stack**, contribuindo para produtos de alta performance e grande escala.
 
 ---
 
