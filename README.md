@@ -29,6 +29,7 @@ Atuo no desenvolvimento de soluções escaláveis, com foco em:
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img height="40" src="https://img.icons8.com/color/48/undefined/sass.png"/>
+<img width="40" height="40" src="https://img.icons8.com/plasticine/100/tailwind_css.png" alt="tailwind_css"/>
 
 ### Back-end
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
@@ -39,6 +40,8 @@ Atuo no desenvolvimento de soluções escaláveis, com foco em:
 ### Infra / DevOps
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img height="40" src="https://img.icons8.com/color/48/redis.png"/>
+<img height="40" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/>
 
 </div>
 
